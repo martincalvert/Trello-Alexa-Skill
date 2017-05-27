@@ -1,0 +1,19 @@
+AMAZON.HelpIntent help
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel
+HowManyCardsIntent are there any cards in review
+HowManyCardsIntent are there any stories in review
+HowManyCardsIntent are there any articles in review
+HowManyCardsIntent are there any posts in review
+HowManyCardsIntent are there any cards ready for review
+HowManyCardsIntent are there any stories ready for review
+HowManyCardsIntent are there any articles ready for review
+HowManyCardsIntent are there any posts ready for review
+HowManyCardsIntent if there are any cards in review
+HowManyCardsIntent if there are any stories in review
+HowManyCardsIntent if there are any articles in review
+HowManyCardsIntent if there are any posts in review
+HowManyCardsIntent if there are any cards ready for review
+HowManyCardsIntent if there are any stories ready for review
+HowManyCardsIntent if there are any articles ready for review
+HowManyCardsIntent if there are any posts ready for review
