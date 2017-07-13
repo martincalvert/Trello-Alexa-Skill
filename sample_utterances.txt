@@ -1,6 +1,3 @@
-AMAZON.HelpIntent help
-AMAZON.StopIntent stop
-AMAZON.CancelIntent cancel
 HowManyCardsIntent are there any cards in review
 HowManyCardsIntent are there any stories in review
 HowManyCardsIntent are there any articles in review
@@ -17,3 +14,9 @@ HowManyCardsIntent if there are any cards ready for review
 HowManyCardsIntent if there are any stories ready for review
 HowManyCardsIntent if there are any articles ready for review
 HowManyCardsIntent if there are any posts ready for review
+AddToCostcoIntent add {chocolate milk|item} to costco
+AddToTargetIntent add {chocolate milk|item} to target
+AddToGroceriesIntent add {chocolate milk|item} to groceries
+AMAZON.HelpIntent help
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel

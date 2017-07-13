@@ -4,6 +4,33 @@
       "intent": "HowManyCardsIntent"
     },
     {
+      "intent": "AddToCostcoIntent",
+      "slots": [
+        {
+          "name": "item",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AddToTargetIntent",
+      "slots": [
+        {
+          "name": "item",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AddToGroceriesIntent",
+      "slots": [
+        {
+          "name": "item",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
       "intent": "AMAZON.HelpIntent"
     },
     {
